@@ -1,5 +1,5 @@
-const dlg = document.getElementById('openModal');
-const openBtn = document.getElementById('openDialog');
+const dlg = document.getElementById('contactDialog');
+const openBtn = document.getElementById('openModal');
 const closeBtn = document.getElementById('closeDialog');
 const form = document.getElementById('contactForm');
 let lastActive = null;
